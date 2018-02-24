@@ -1,20 +1,36 @@
 .showcase {
     background: url("../images/landpage.jpg");
-    background-size: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 282px;
 }
 
-#showcase-txt {
+.navbar-default {
+    background-color: transparent;
+    border: 0px;
+}
 
+.linx {
+    width: 120px;
+    height: 50px;
+    text-align: center;
+}
+
+.linx:hover {
+    background-color: rgb(255, 255, 255);
+    opacity: 0.4;
+}
+
+.navbar-right {
+    margin-right: 0px;
 }
 
 .titletext {
     font-size: 60px;
+    margin-left: 60px;
+    margin-top: -90px;
     color: white;
-    font-weight: bold;
 }
 
 .sm-text {
