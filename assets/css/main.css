@@ -8,11 +8,16 @@
 }
 
 #showcase-txt {
-    
+
 }
 
 .titletext {
     font-size: 60px;
     color: white;
     font-weight: bold;
+}
+
+.sm-text {
+    color: white;
+    font-size: 20px;
 }
